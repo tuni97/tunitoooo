@@ -9,4 +9,5 @@ int main()
       Lice=((b1+b2)*h)/2
       cout<<"Lice="<<Lice;
       return 0;
+      //Bravo! :D
 }
