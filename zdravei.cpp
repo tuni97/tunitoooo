@@ -7,4 +7,5 @@ int main()
     cin>>ime;
     cout<<"Zdrasti! Az se kazvam "<<ime<<"!"<<endl;
     return 0;
+    //Mnogo ti e malak dialoga
 }
